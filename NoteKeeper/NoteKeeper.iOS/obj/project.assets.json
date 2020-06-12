@@ -1045,24 +1045,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\drago\\.nuget\\packages\\": {},
+    "C:\\Users\\CRDR\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
       "projectName": "NoteKeeper.iOS",
-      "projectPath": "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
-      "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper.iOS\\obj\\",
+      "projectPath": "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper.iOS\\NoteKeeper.iOS.csproj",
+      "packagesPath": "C:\\Users\\CRDR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CRDR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
-              "projectPath": "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj"
+            "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj": {
+              "projectPath": "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj"
             }
           }
         }

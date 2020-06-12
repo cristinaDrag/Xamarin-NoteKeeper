@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "g98V4XTYL3qc2gceDz4MScH19RqWz/CVJsp5T7ijQ9ms/oGpn9RbmQDceVhylMEDqZmNOwjoH3VeHScFjVDRpg==",
+  "dgSpecHash": "/H3sObuTJhGOmGNGe5U0yKgttCJEpqE5ogHfb8YgYTSGKLzh9fB4yg+yJW8L+aSN1i6Y3S6B0BoMBx0aQvihag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\drago\\source\\repos\\NoteKeeper\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj",
+  "projectFilePath": "C:\\Users\\CRDR\\source\\repos\\Xamarin-NoteKeeper-bitbucket\\NoteKeeper\\NoteKeeper\\NoteKeeper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\drago\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\drago\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\drago\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\CRDR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CRDR\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CRDR\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
